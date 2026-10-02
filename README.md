@@ -1,5 +1,11 @@
 # DEV TINDER 
 
+# start the frontend using 
+
+- cd devtinder-web
+- npm run dev
+
+
 - 1. Created a Vite + React application and start it.
 - 2. Remove unnecessary code and create a Hello app.
 - 3. Install Tailwind CSS.
@@ -18,6 +24,7 @@
 - 16. Login and see if your data is coming properly in the redux store.
 - 17. Navbar should update as soon as user logs. 
 - 18. Refactor our code to add constants file + create a components folder.
+- 19. 
 
 
 
